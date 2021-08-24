@@ -4,7 +4,7 @@ This repository contains a notebook to demonstrate the power of Document Text Re
 ### Link to the official DocTR library - https://github.com/mindee/doctr
 
 ## Click to open the Notebook directly in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhattbhavesh91/DocTR-tutorial/blob/main/doctr-ocr-notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhattbhavesh91/DocTR-OCR-tutorial/blob/main/doctr-ocr-notebook.ipynb)
 
 **If you like my work, you can support me by buying me a coffee by clicking the link below**
 
